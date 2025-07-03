@@ -4,3 +4,12 @@ __pycache__/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 */.ipynb_checkpoints/*.ipynb
+
+# Event detection outputs
+synthetic_data/
+analysis_output/
+*.png
+*.h5
+*.csv
+detected_events_*
+test_visualization*
